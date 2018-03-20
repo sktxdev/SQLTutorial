@@ -26,7 +26,7 @@ By the end of the class you will be able to:<br>
 - Understand what a database is and how it can help you<br>
 - Understand how to design a simple database<br>
 - Load information into one or more tables from a spreadsheet<br>
-- Query data from the database to shape and export data to a CSV and view in Excel as a chart<br>
+- Query the database to shape and export data to a CSV and view in Excel as a chart<br>
 <hr>
 
 If we dont cover everything, we can schedule a second session.<br>
