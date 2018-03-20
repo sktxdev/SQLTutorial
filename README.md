@@ -24,7 +24,8 @@ Quick Overview
 <hr>
 By the end of the class you will be able to:<br>
 - Understand what a database is and how it can help you<br>
-- Load information into a database from a spreadsheet<br>
+- Understand how to design a simple database<br>
+- Load information into one or more tables from a spreadsheet<br>
 - Query data from the database to:<br>
 - Shape data using queries<br>
 - Export data to a CSV<br>
