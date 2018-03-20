@@ -20,7 +20,8 @@ If you have a mac or linux, grab a docker image and you can run SQL Server that 
 
 For the client, you have a couple of options.
 SQL Server Management Studio or SQL Operations Studio. (https://docs.microsoft.com/en-us/sql/sql-operations-studio/download)
-I recommend SQL Server Management Studio for now. That is the tool I'll be using in the class.
+I recommend SQL Server Management Studio for now. That is the tool I'll be using in the class.<br>
+https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
 
 Quick Overview
 <hr>
