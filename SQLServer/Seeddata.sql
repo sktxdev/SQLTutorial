@@ -42,15 +42,6 @@ insert into studentenrollments(id, studentid, classscheduleid, enrolldate, grade
 insert into studentenrollments(id, studentid, classscheduleid, enrolldate, grade) values (7, 1, 7, '12/20/2015', '')
 insert into studentenrollments(id, studentid, classscheduleid, enrolldate, grade) values (8, 1, 8, '12/20/2015', '')
 
-insert into studentenrollments(id, studentid, classscheduleid, enrolldate, grade) values (1, 1, 1, '12/20/2015', '')
-insert into studentenrollments(id, studentid, classscheduleid, enrolldate, grade) values (2, 1, 2, '12/20/2015', '')
-insert into studentenrollments(id, studentid, classscheduleid, enrolldate, grade) values (3, 1, 3, '12/20/2015', '')
-insert into studentenrollments(id, studentid, classscheduleid, enrolldate, grade) values (4, 1, 4, '12/20/2015', '')
-insert into studentenrollments(id, studentid, classscheduleid, enrolldate, grade) values (5, 1, 5, '12/20/2015', '')
-insert into studentenrollments(id, studentid, classscheduleid, enrolldate, grade) values (6, 1, 6, '12/20/2015', '')
-insert into studentenrollments(id, studentid, classscheduleid, enrolldate, grade) values (7, 1, 7, '12/20/2015', '')
-insert into studentenrollments(id, studentid, classscheduleid, enrolldate, grade) values (8, 1, 8, '12/20/2015', '')
-
 insert into studentenrollments(id, studentid, classscheduleid, enrolldate, grade) values (9, 2, 1, '12/20/2015', '')
 insert into studentenrollments(id, studentid, classscheduleid, enrolldate, grade) values (10, 2, 2, '12/20/2015', '')
 insert into studentenrollments(id, studentid, classscheduleid, enrolldate, grade) values (11, 2, 3, '12/20/2015', '')
