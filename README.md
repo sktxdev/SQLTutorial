@@ -2,10 +2,9 @@
 SQL Tutorial
 
 ### Software Requirements:
-- A Windows Laptop runnin Windows 10 (You can use a mac with VMFusion or Parallels install if you wish)
-- SQL Server Express 2017 or SQL Server Developer Edition
+- A Windows Laptop running Windows 10 (You can use a mac with VMFusion or Parallels install if you wish)
+- SQL Server Express 2017 
 - SQL Server Management Studio
-- Visual Studio Code (optional)
 
 ### Some userful Links:
 https://www.microsoft.com/en-us/sql-server/sql-server-editions-express
