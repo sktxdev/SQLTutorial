@@ -1,5 +1,6 @@
 # SQLTutorial
-SQL Tutorial
+SQL Tutorial (Note - given the age of this tutorial, you'll need to upgrade the versions to something more current)
+For better resource management on your laptop, tt would be better to run sqlserver inside of docker desktop.
 
 ### Software Requirements:
 - A Windows Laptop running Windows 10 (You can use a mac with VMFusion or Parallels install if you wish)
